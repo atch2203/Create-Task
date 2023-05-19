@@ -1,0 +1,21 @@
+DNA sequence
+ATGCTAGTACGTAGACGACGACGACTAGCTAGCTAGTGTAGCTAGATTATATAGCTGCTGCTCTTCTGTCAGTGTCAGCTGCTGCGCGTACGTGCGATGTGTGTCATGGCAGTTGCAGTACCACATG
+
+mRNA sequence
+AUGCUAGUGUAUCGUGCUAGCUGGAUAUUAUUUUCUAGUCGAGUGAGGACUGUCGAUGCUAGAGGCUUAGUAUAUGCGCGCUAAGCGUGUAGCUAAUGGAUCAGUAUAUAUGCAGGAGACUCUCUGUAGCUA
+
+
+My program takes in input from the text file "sequence1" as shown on the left
+
+Running it will prompt the user for whether the sequence is DNA or mRNA
+
+The polypeptide/amino acid sequence corresponding to the mRNA/DNA sequence is printed in the terminal
+
+Additionally, a plot of the amount of each amino acid is displayed
+Here you can see that the mRNA sequence results in a lot of the Arg amino acid
+
+
+
+Now I will run the same program, except this time with the DNA sequence instead of the mRNA sequence
+
+This resulting polypeptide has a lot of Ser and Thr
